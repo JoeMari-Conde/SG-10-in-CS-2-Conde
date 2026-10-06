@@ -6,7 +6,8 @@
      They do not know which version is the latest update. Also, their version history is 
      absent so they cannot track their changes and updates to the program. 
 ### 2. How can version control help solve these problems?
-
+     They can revert to an older version where the code was properly formatted
+     and know which change made the error and know the latest version.
 ### 3. Why is it important to describe changes clearly?
 
 ### 4. How can the group identify the latest version of the project?
