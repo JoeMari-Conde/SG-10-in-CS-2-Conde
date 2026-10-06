@@ -12,5 +12,5 @@
      So they can know what changed in each version of the program which makes it easier
      to backtrack progress when an unexpected error occures.
 ### 4. How can the group identify the latest version of the project?
-
+     They can check their version history and check the update with the most recent date.
 ### 5. What should the group do before making another update?
