@@ -9,7 +9,8 @@
      They can revert to an older version where the code was properly formatted
      and know which change made the error and know the latest version.
 ### 3. Why is it important to describe changes clearly?
-
+     So they can know what changed in each version of the program which makes it easier
+     to backtrack progress when an unexpected error occures.
 ### 4. How can the group identify the latest version of the project?
 
 ### 5. What should the group do before making another update?
