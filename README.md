@@ -3,8 +3,8 @@
 ## Part 4: Face-to-Face Activity: Version Control Scenario Task
 
 ### 1. What version control problems happened in the group?
-     <p> They do not know which version is the latest update. Also, their version history is <wbr> 
-     absent so they cannot track their changes and updates to the program. </p>
+     They do not know which version is the latest update. Also, their version history is 
+     absent so they cannot track their changes and updates to the program. 
 ### 2. How can version control help solve these problems?
 
 ### 3. Why is it important to describe changes clearly?
