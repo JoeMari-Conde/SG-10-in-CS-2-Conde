@@ -14,3 +14,5 @@
 ### 4. How can the group identify the latest version of the project?
      They can check their version history and check the update with the most recent date.
 ### 5. What should the group do before making another update?
+     Write a description for all previous and future updates, keep a version history of all changes,
+     and make sure all versions are kept ordered in terms of the time of the update.
