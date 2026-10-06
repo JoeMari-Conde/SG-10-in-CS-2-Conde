@@ -1,4 +1,4 @@
-# SG 10: Principles of Version Control
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bdd1eab-0849-4315-8ebf-06245c8b1db0" /># SG 10: Principles of Version Control
 
 ## Part 4: Face-to-Face Activity: Version Control Scenario Task
 
@@ -16,3 +16,11 @@
 ### 5. What should the group do before making another update?
      Write a description for all previous and future updates, keep a version history of all changes,
      and make sure all versions are kept ordered in terms of the time of the update.
+
+
+## Part 4.1: Face-to-Face Exit Ticket
+
+### 1. What is version control?
+### 2.Why is version control useful when working on a programming project?
+### 3.What makes a commit message clear and useful?
+### 4.In Module D, you uploaded your Distance Calculator to GitHub. How was that already an act of version control?
