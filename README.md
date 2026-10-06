@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bdd1eab-0849-4315-8ebf-06245c8b1db0" /># SG 10: Principles of Version Control
-
 ## Part 4: Face-to-Face Activity: Version Control Scenario Task
 
 ### 1. What version control problems happened in the group?
